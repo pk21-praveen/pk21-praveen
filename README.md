@@ -1,8 +1,6 @@
-## Hey There 👋, 
+## Hey There 👋, ![visitors](https://visitor-badge.glitch.me/badge?page_id=pk21-praveen.pk21-praveen)
 
 Hello! 😃 Myself **Praveenkumar Srikanthan**. Welcome & Great to see you visiting my profile. Take a moment to look at the good work I've done.
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pk21-praveen.pk21-praveen)
 
 ### 📜 **About me...**
 
