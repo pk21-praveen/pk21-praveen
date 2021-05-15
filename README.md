@@ -14,14 +14,11 @@ Hello! 😃 Myself **Praveenkumar Srikanthan**. Welcome & Great to see you visit
 - 🐱‍👤 Love for coding <br>
 - 💖 and a proud Sri Lankan!
 
-<br>
-
 ### **Reach Me via...**
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pk21-praveen)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/praveenkumar-srikanthan-167a7315a)
 
-<br>
 
 ### **💪 My Skills...**
 
@@ -43,22 +40,17 @@ Hello! 😃 Myself **Praveenkumar Srikanthan**. Welcome & Great to see you visit
 ![Git](https://img.shields.io/badge/-Git-000?style=round&logo=git)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?&logo=ubuntu&logoColor=white)
 
-<br>
 
 ### 📖 **I'm Learning...**
 
 - AI | ML | DL
 - ASP.NET 5
 
-<br>
 
 ### 📊 **Stats...**
 
-<br>
-
 <img src="https://github-readme-stats.vercel.app/api?username=pk21-praveen&show_icons=true&count_private=true&theme=dark" alt="Praveenkumar Srikanthan" />
 
-<br>
  <!-- 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pk21-praveen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  -->
