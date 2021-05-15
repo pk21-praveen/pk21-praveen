@@ -10,6 +10,8 @@ Hello! 😃 Myself **Praveenkumar Srikanthan**. Welcome & Great to see you visit
 - 👨‍🎓 Graduate at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) (SLIIT)<br>
 - 👩‍💻 Software Engineer at [IFS](https://www.ifs.com/lk/) <br>
 - 🐱‍👤 Love for coding <br>
+- 👯 I’m looking to collaborate with anyone on any project.
+- ⚡ Fun fact: I love playing cricket and computer games.
 - 💖 and a proud Sri Lankan!
 
 ### **Reach Me via...**
@@ -39,15 +41,23 @@ Hello! 😃 Myself **Praveenkumar Srikanthan**. Welcome & Great to see you visit
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?&logo=ubuntu&logoColor=white)
 
 
-### 📖 **I'm Learning...**
+### 📖 **I’m currently learning...**
 
-- AI | ML | DL
-- ASP.NET 5
+- Docker
+- Azure
+- Terraform
+- Ansible
+- Linux
+- Kubernetes
 
+### :trophy: My Github Stats:
 
-### 📊 **Stats...**
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pk21-praveen&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pk21-praveen&count_private=true&show_icons=true&theme=dark" alt="Praveenkumar Srikanthan"/>
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pk21-praveen&hide=php&theme=dark">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pk21-praveen&hide=java&layout=compact&theme=dark" />
+</a>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pk21-praveen&show_icons=true&count_private=true&theme=dark" alt="Praveenkumar Srikanthan" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pk21-praveen&layout=compact&theme=dark)
- 
