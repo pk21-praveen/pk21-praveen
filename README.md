@@ -1,4 +1,4 @@
-## Hey There 👋, ![visitors](https://visitor-badge.glitch.me/badge?page_id=pk21-praveen.pk21-praveen)
+## Hey There 👋, 
 
 Hello! 😃 Myself **Praveenkumar Srikanthan**. Welcome & Great to see you visiting my profile. Take a moment to look at the good work I've done.
 
@@ -50,14 +50,4 @@ Hello! 😃 Myself **Praveenkumar Srikanthan**. Welcome & Great to see you visit
 - Linux
 - Kubernetes
 
-### :trophy: My Github Stats:
-
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pk21-praveen&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pk21-praveen&count_private=true&show_icons=true&theme=dark" alt="Praveenkumar Srikanthan"/>
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pk21-praveen&hide=php&theme=dark">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pk21-praveen&hide=java&layout=compact&theme=dark" />
-</a>
-</div>
 
