@@ -34,7 +34,6 @@ Hello! 😃 Myself **Praveenkumar Srikanthan**. Welcome & Great to see you visit
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart&logoColor=2196F3)
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=json&logoColor=yellow)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=round&logo=mongodb)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?style=round&logo=google)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-000?style=round&logo=git)
