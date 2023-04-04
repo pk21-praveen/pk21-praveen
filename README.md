@@ -8,7 +8,7 @@ Hello! 😃 Myself **Praveenkumar Srikanthan**. Welcome & Great to see you visit
 
 - 🏫 I'm an Alumni of [S. Thomas' College, Mount Lavinia](https://www.stcmount.edu.lk/) <br>
 - 👨‍🎓 Graduate at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) (SLIIT)<br>
-- 👩‍💻 Software Engineer at [IFS](https://www.ifs.com/lk/) <br>
+- 👩‍💻 Senior Software Engineer at [IFS](https://www.ifs.com/lk/) <br>
 - 🐱‍👤 Love for coding <br>
 - 👯 I’m looking to collaborate with anyone on any project.
 - ⚡ Fun fact: I love playing cricket and computer games.
